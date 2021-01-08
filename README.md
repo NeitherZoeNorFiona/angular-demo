@@ -1,2 +1,2 @@
-# angular-demo
-learn angular and practice in this repository
+# about angular-demo
+this is a repository for learning and practicing angular.
